@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/jboss/samples/webservices/ColorQueue.java=UTF-8
+encoding//src/org/jboss/samples/webservices/ColorQueueService.java=UTF-8
+encoding//src/org/jboss/samples/webservices/ColorQueueServiceLocator.java=UTF-8
+encoding//src/org/jboss/samples/webservices/ColorQueueServiceSoapBindingStub.java=UTF-8
